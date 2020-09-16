@@ -1,16 +1,19 @@
-### Hi there 👋
+### Nice to meet you 👋🏻
+I’m a creative, ambitious, and enterprising student at Holberton School❤️
 
-<!--
-**LizethVictoria20/LizethVictoria20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💬 About me
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Python 🐍  and JavaScript 🌞
+- 👯 I’m looking to collaborate on a lot of project open source
+- ⚡ Plus:
+	 - HTML
+	 - CSS
+	 - Bootstrap
+	 - Wordpress
+	 - MySQL
+------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- 🌎 [Web page](https://lizvictory.devhttp:// "Web Page")
+- 📩 hola@lizvictory.dev
+- 💙 @LizVictoriaF
