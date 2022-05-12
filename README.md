@@ -1,5 +1,5 @@
 ### Nice to meet you 👋🏻
-I’m a creative, ambitious, and enterprising student at Holberton School❤️
+I’m a creative❤️
 
 ### 💬 About me
 
