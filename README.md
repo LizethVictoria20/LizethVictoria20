@@ -11,6 +11,9 @@ I’m a creative❤️
 	 - Tailwind
 	 - React
 	 - MySQL
+    	 - Python
+         - Flask 	
+    
 ------------
 
 ### 📫 How to reach me:
